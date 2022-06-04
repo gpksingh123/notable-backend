@@ -1,0 +1,158 @@
+{
+  "1": {
+    "Name": "Julius Hibbert",
+    "Email": "krieger@notablehealth.com",
+    "Appointments": [
+      {
+        "date": "05-06-2018",
+        "bookings": [
+          {
+            "Name": "Sterling Archer",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Cyril Figis",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          },
+          {
+            "Name": "Ray Gillete",
+            "time": "9:00AM",
+            "Kind": "Follow-Up",
+            "ID": "3"
+          },
+          {
+            "Name": "Lane Kane",
+            "time": "9:30AM",
+            "Kind": "Follow-Up",
+            "ID": "3"
+          },
+          {
+            "Name": "Pam Poovey",
+            "time": "10:00AM",
+            "Kind": "New Patient",
+            "ID": "4"
+          }
+        ]
+      },
+      {
+        "date": "05-06-2018",
+        "bookings": [
+          {
+            "Name": "Test User 1",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Test User 2",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          },
+          {
+            "Name": "Test User 3",
+            "time": "9:00AM",
+            "Kind": "Follow-Up",
+            "ID": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    "Name": "Algernop Kreiger",
+    "Email": "kreiger@notablehealth.com",
+    "Appointments": [
+      {
+        "date": "05-05-2018",
+        "bookings": [
+          {
+            "Name": "Test User 4",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Test User 5",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          }
+        ]
+      },
+      {
+        "date": "05-06-2018",
+        "bookings": [
+          {
+            "Name": "Test User 6",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Test User 7",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          },
+          {
+            "Name": "Test User 8",
+            "time": "9:00AM",
+            "Kind": "Follow-Up",
+            "ID": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "3": {
+    "Name": "Nick Riviera",
+    "Email": "Riviera@notablehealth.com",
+    "Appointments": [
+      {
+        "date": "05-05-2018",
+        "bookings": [
+          {
+            "Name": "Test User 9",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Test User 10",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          }
+        ]
+      },
+      {
+        "date": "05-06-2018",
+        "bookings": [
+          {
+            "Name": "Test User 11",
+            "time": "8:00AM",
+            "Kind": "New Patient",
+            "ID": "1"
+          },
+          {
+            "Name": "Test User 12",
+            "time": "8:30AM",
+            "Kind": "Follow-up",
+            "ID": "2"
+          },
+          {
+            "Name": "Test User 13",
+            "time": "9:00AM",
+            "Kind": "Follow-Up",
+            "ID": "3"
+          }
+        ]
+      }
+    ]
+  }
+}
